@@ -1,2 +1,2 @@
-# Lain
-A bot
+# lainbot
+Lain Bot for discord 
